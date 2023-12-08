@@ -1,2 +1,2 @@
 # CODSOFT
-Performing Codsoft tasks using java prograM
+Performing Codsoft tasks using Java program
